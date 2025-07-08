@@ -17,7 +17,6 @@ b = psw.count("@")
 c = psw.count("#")
 x = b+c
 d = psw[0]
-#num = [0,1,2,3,4,5,6,7,8,9]
 
 
 if(a<8):
